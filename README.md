@@ -11,4 +11,13 @@ is complete.
 
 Note the # hours played before the research completes.
 
-Put the research score on the score tab with the # rockets launched
+Put the research score on the score tab with the # rockets launched.
+
+Add Victory Builds: 1,000,000 of a particular item builds into a victory build
+plaque? Since the # resources need is a short int, I'd need to have it be the
+sum of a build of components.
+
+# Help
+
+You can help by contributing icons for the plaques, both for the structures
+and the inventory.
